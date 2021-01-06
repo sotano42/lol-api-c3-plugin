@@ -15,4 +15,5 @@ https://www.imcsw.com/2020/12/07/legends-of-learning-api-integration/
 # Issues, new features
 In any case you have found a bug or a problem with the plugin, you may create an issue in this repository. To properly be able to help you, is important you submit the bug using the provided template.
 
-https://github.com/sotano42/lol-api-c3-plugin/issues
+## Issues: https://github.com/sotano42/lol-api-c3-plugin/issues/new?assignees=&labels=&template=bug_report.md&title=
+## New Features:  https://github.com/sotano42/lol-api-c3-plugin/issues/new?assignees=&labels=&template=feature_request.md&title=
